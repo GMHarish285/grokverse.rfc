@@ -1,8 +1,8 @@
 # grokverse.rfc
-Submissions repository for `ASOC16` - Gamified 2D Metaverse Working Spaces
+Submissions repository for `ASOC16` - [https://github.com/acm-avv/grokverse.rfc](https://github.com/acm-avv/grokverse.rfc)
 
 > [!NOTE]
-All discussions regarding `ASOC13: Gamified 2D Metaverse Working Spaces` shall take place at [https://github.com/acm-avv/grokverse.rfc](https://github.com/acm-avv/grokverse.rfc)
+All discussions regarding `ASOC13: Gamified 2D Metaverse Working Spaces` shall take place at [https://github.com/orgs/acm-avv/discussions/21](https://github.com/orgs/acm-avv/discussions/21)
 
 ## Overview
 In-order to be eligible to work on this project as **Request for Code** under the banner of **Amrita Summer of Code, 2025**, you are required to form a team of size 1-4 and have all the members register at [amsoc.vercel.app](https://amsoc.vercel.app)
@@ -16,7 +16,7 @@ In-order to be eligible to work on this project as **Request for Code** under th
 ```
 
 ## How to Apply
-Type out a message with the following details at [https://github.com/acm-avv/grokverse.rfc](https://github.com/acm-avv/grokverse.rfc):
+Type out a message with the following details at [https://github.com/orgs/acm-avv/discussions/21](https://github.com/orgs/acm-avv/discussions/21):
 1. Team Name
 2. Team Members' Names, Roll-Numbers and respective GitHub usernames
 3. Tag the project manager as **@username**
