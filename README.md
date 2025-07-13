@@ -1,5 +1,5 @@
 # grokverse.rfc
-Submissions repository for `ASOC16` - [https://github.com/acm-avv/grokverse.rfc](https://github.com/acm-avv/grokverse.rfc)
+Submissions repository for `ASOC13` - [https://github.com/acm-avv/grokverse.rfc](https://github.com/acm-avv/grokverse.rfc)
 
 > [!NOTE]
 All discussions regarding `ASOC13: Gamified 2D Metaverse Working Spaces` shall take place at [https://github.com/orgs/acm-avv/discussions/21](https://github.com/orgs/acm-avv/discussions/21)
